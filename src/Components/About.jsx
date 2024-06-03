@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation.I have also worked as a content writer for various organizations";
+  "I am passionate about solving problems in new creative ways to drive innovation.I have also worked as a content writer for various organizations.";
 
 const About = () => {
   return (
